@@ -1432,10 +1432,10 @@
   resolved "https://registry.yarnpkg.com/@types/k6/-/k6-0.45.0.tgz#0d678cdbbb2d54fd057296835a11b36b3be6ab96"
   integrity sha512-ySQ1LQ67kqYz/4W6oJ/9afPWHV/2GYKVUQFkOzM+fBtY2POCY8D7GX4F6rT0R8u2Be/DK8s1Ypr2s+LbToj/oA==
 
-"@types/lodash@4.14.195":
-  version "4.14.195"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.195.tgz#bafc975b252eb6cea78882ce8a7b6bf22a6de632"
-  integrity sha512-Hwx9EUgdwf2GLarOjQp5ZH8ZmblzcbTBC2wtQWNKARBSxM9ezRIAUpeDTgoQRAFB0+8CNWXVA9+MaSOzOF3nPg==
+"@types/lodash@4.17.13":
+  version "4.17.13"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.17.13.tgz#786e2d67cfd95e32862143abe7463a7f90c300eb"
+  integrity sha512-lfx+dftrEZcdBPczf9d0Qv0x+j/rfNCMuC6OcfXmO8gkfeNAY88PgKUbvG56whcN23gc27yenwF6oJZXGFpYxg==
 
 "@types/minimatch@*":
   version "3.0.4"
