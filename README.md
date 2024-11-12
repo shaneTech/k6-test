@@ -1,4 +1,4 @@
-# TypeScript with k6
+# TypeScript with k6 ---
 
 ![banner](assets/ts-js-k6.png)
 
